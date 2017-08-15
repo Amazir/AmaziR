@@ -1,10 +1,10 @@
-### Hi, im Michał
+# Hi, im Michał
 
-# I am a programmer from Poland who will write for you both web applications and native ones for optimal price.
+### I am a programmer from Poland who will write for you both web applications and native ones for optimal price.
 
-# Technologies what i using are: JS Ecosystem, C++, Python, PHP.
+### Technologies what i using are: JS Ecosystem, C++, Python, PHP.
 
-### My profiles
+## My profiles
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
