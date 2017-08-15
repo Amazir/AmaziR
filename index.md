@@ -8,7 +8,7 @@
 
 You can find me on:
 - GitHub: Amazir
-- Telegram: Amazir
+- Telegram: @Amazirros
 - MPCForum: xAmaziR
 - Facebook: Michał Romaszewski
 - TeamSpeak: amazir.eu
