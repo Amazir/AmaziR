@@ -1,10 +1,10 @@
-## Hi, im Michał
+### Hi, im Michał
 
-#I am a programmer from Poland who will write for you both web applications and native ones.
+# I am a programmer from Poland who will write for you both web applications and native ones for optimal price.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Technologies what i using are: JS Ecosystem, C++, Python, PHP.
 
-### Markdown
+### My profiles
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
